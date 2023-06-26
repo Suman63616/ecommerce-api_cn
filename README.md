@@ -34,7 +34,3 @@ STEPS TO UPDATE THE QUANTITY OF A PRODUCT:
 3) After putting the id add /update_quantity/?number={x} in the url where x is the number by which you want to increase or decrease the quantity.
 4) the url should be looking like localhost:3000/products/{id}/update_quantity/?number={x}
 5) Make a POST request and you should get a message containing the update product
-
-
-# TECHSTACK
-Node.Js, MongoDB
