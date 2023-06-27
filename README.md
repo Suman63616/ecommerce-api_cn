@@ -1,12 +1,13 @@
 # E-Commerce-API
 
-
+# Hosted-link
+https://ecommerce-api-cn-725x.onrender.com/products
 
 # ABOUT
 This is an E-commerce API made using Node.Js & MongoDB. 
 
 STEPS TO USE THE API:
-1) run "npm init" command on terminal in this projects directory
+1) run "npm init" command on terminal in this projects directory and also run "npm i nodemon"
 2) start the server using npm start
 3) Open postman
 4) Make a GET request on localhost:3000/products
